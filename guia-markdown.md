@@ -25,9 +25,10 @@ __*negrito e itálico*__
 * Teste
 * Teste
    *Teste
+
 - Teste
    -Teste
 
 # Lista de tarefas:
-- [] Teste 1
+- [ ] Teste 1
 - [x] Teste 2
