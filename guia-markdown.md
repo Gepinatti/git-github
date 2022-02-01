@@ -58,3 +58,8 @@ else:
     print(f'O valor {num} é ÍMPAR')
 ```
 
+# Emojis:
+:hand
+
+# Lista de emojis:
+https://github.com/ikatyang/emoji-cheat-sheet.git
