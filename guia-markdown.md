@@ -32,3 +32,29 @@ __*negrito e itálico*__
 # Lista de tarefas:
 - [ ] Teste 1
 - [x] Teste 2
+
+# Imagens:
+Arrastando até o campo informado ou
+![nome do arquivo](url do arquivo)
+
+# Link:
+[nome do link](url do link)
+
+# Tabelas:
+Num|Nome|Nota|
+---|---|---|
+1|Gustavo|8,5
+2|José|10
+
+# Comandos:
+`document.getElementById()`
+
+# Trechos de programas:
+```
+num = int(input('Digite um valor:))
+if num % 2 == 0:
+    print(f'O valor {num} é PAR')
+else:
+    print(f'O valor {num} é ÍMPAR')
+```
+
