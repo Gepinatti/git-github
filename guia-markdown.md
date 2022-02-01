@@ -59,7 +59,14 @@ else:
 ```
 
 # Emojis:
-:hand
+:exemplo:
+
+* Emojis não funcionam em títulos de issues, para isso, você deve copiar e colar diretamente a figura do emoji.
 
 # Lista de emojis:
 https://github.com/ikatyang/emoji-cheat-sheet.git
+
+# Citações e marcação de pessoas:
+@fulano
+
+> exemplo
