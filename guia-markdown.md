@@ -24,10 +24,10 @@ __*negrito e itálico*__
 # Lista demarcada:
 * Teste
 * Teste
-   *Teste
+   * Teste
 
 - Teste
-   -Teste
+   - Teste
 
 # Lista de tarefas:
 - [ ] Teste 1
