@@ -1,3 +1,6 @@
+# Versão em PDF por @gustavoguanabara:
+https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf
+
 # Título 1
 ## Título 2
 ### Título 3
